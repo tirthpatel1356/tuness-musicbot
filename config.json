@@ -1,0 +1,10 @@
+{
+    "name": "Tuness",
+    "prefix": "+",
+    "playing": "-play | RZJoKeRRRR",
+    "color": "#FFFFFF",
+    "defaultVolume": 50,
+    "autoLeave": true,
+    "displayVoiceState": true,
+    "port": 33333
+}
