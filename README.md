@@ -57,29 +57,3 @@ TOKEN = "your_token"
 ```
 node index.js
 ```
-
-
-## Deploying with Docker Compose  
-### put your Token into [`docker-compose.yml`](./docker-compose.yml)
-```yml
-version: '3.8'
-services:
-    restart: always
-    environment:
-      TOKEN: "your_token"
-      PREFIX: "+"
-      PLAYING: "+help | music"
-      COLOR: "#FFFFFF"
-      DEFAULTVOLUME: 50
-      AUTO_LEAVE: "true"
-      DISPLAY_VOICE_STATE: "true"
-    ports:
-      - 33333:33333
-```
-
-### Start the container  
-```
-docker-compose up -d
-```
-
-
