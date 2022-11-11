@@ -1,6 +1,6 @@
-<img width="150" height="150" align="right" style="float: right; margin: 0 10px 0 0;" alt="music_disc" src="https://i.imgur.com/JWSIlSt.png">
+<img width="150" height="150" align="right" style="float: right; margin: 0 10px 0 0;" alt="tuness" src="https://i.imgur.com/JWSIlSt.png">
 
-# Music Disc 
+# Tuness
 
 <a href="https://github.com/hmes98318/Music-Disc/releases"><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/hmes98318/Music-Disc?style=for-the-badge"></a> 
 <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.JS-v14-blue?style=for-the-badge&logo=DISCORD" /></a> 
